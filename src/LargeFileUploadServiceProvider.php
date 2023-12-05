@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\LargeFileUpload;
+namespace OpenAdmin\LargeFileUpload;
 
-use Encore\Admin\Admin;
+use OpenAdmin\Admin\Admin;
 use Illuminate\Support\ServiceProvider;
 
 class LargeFileUploadServiceProvider extends ServiceProvider
