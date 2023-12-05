@@ -1,4 +1,4 @@
-laravel-admin extension
+open-admin extension
 ======
 
 由于已经有了更好更专业完善的方案，本项目停止更新，建议大家支持这个项目[Dact-Admin](https://github.com/jqhph/dcat-admin),以获得更好的体验
