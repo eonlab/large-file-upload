@@ -2,7 +2,7 @@
     "name": "dianwoung/large-file-upload",
     "description": "An extension of laravel-admin for uploading large files",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
+    "keywords": ["open-admin", "extension"],
     "homepage": "https://github.com/Dianwoung/large-file-upload",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6",
+        "open-admin-org/open-admin": "~1.0",
         "peinhu/aetherupload-laravel": "~1.0"
     },
     "require-dev": {
@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Encore\\LargeFileUpload\\LargeFileUploadServiceProvider"
+                "OpenAdmin\\LargeFileUpload\\LargeFileUploadServiceProvider"
             ]
 
         }
