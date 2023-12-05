@@ -1,7 +1,7 @@
 <?php
-namespace Encore\LargeFileUpload;
+namespace OpenAdmin\LargeFileUpload;
 
-use Encore\Admin\Form\Field;
+use OpenAdmin\Admin\Form\Field;
 
 class LargeFileField extends Field
 {
