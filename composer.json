@@ -1,6 +1,6 @@
 {
     "name": "dianwoung/large-file-upload",
-    "description": "An extension of laravel-admin for uploading large files",
+    "description": "An extension of open-admin for uploading large files",
     "type": "library",
     "keywords": ["open-admin", "extension"],
     "homepage": "https://github.com/Dianwoung/large-file-upload",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Encore\\LargeFileUpload\\": "src/"
+            "OpenAdmin\\LargeFileUpload\\": "src/"
         }
     },
     "extra": {
