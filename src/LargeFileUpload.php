@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\LargeFileUpload;
+namespace OpenAdmin\LargeFileUpload;
 
-use Encore\Admin\Extension;
+use OpenAdmin\Admin\Extension;
 
 class LargeFileUpload extends Extension
 {
