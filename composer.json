@@ -1,9 +1,9 @@
 {
-    "name": "dianwoung/large-file-upload",
+    "name": "eonlab/large-file-upload",
     "description": "An extension of open-admin for uploading large files",
     "type": "library",
     "keywords": ["open-admin", "extension"],
-    "homepage": "https://github.com/Dianwoung/large-file-upload",
+    "homepage": "https://github.com/eonlab/large-file-upload",
     "license": "MIT",
     "authors": [
         {
