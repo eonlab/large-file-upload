@@ -30,7 +30,6 @@ class LargeFileUploadServiceProvider extends ServiceProvider
         Admin::booting(function (){
             Admin::js('vendor/open-admin-ext/large-file-upload/js/aetherupload.admin.js');
             Admin::js('vendor/open-admin-ext/large-file-upload/js/bootstrap.file-input.js');
-            Admin::js('vendor/open-admin-ext/large-file-upload/js/spark-md5.min.js');
         });
 
     }
