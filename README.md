@@ -3,7 +3,7 @@ open-admin extension
 
 Extension for OpenAdmin forked and adapted from https://github.com/laravel-admin-extensions/large-file-upload
 ===
-Uses AtherUpload v2.0
+Uses AetherUpload v2.0
 
 ===
 
