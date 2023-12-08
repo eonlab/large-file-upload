@@ -1,13 +1,11 @@
 open-admin extension
 ======
 
-Extension for OpenAdmin forked and adapted from from https://github.com/laravel-admin-extensions/large-file-upload
+Extension for OpenAdmin forked and adapted from https://github.com/laravel-admin-extensions/large-file-upload
+===
 Uses AtherUpload v2.0
 
 ===
-
-本扩展包是基于peinhu的[AetherUpload-Laravel](https://github.com/peinhu/AetherUpload-Laravel)针对[laravel-admin](https://github.com/z-song/laravel-admin)开发的大文件上传工具，
-直接用于Form组件。当前版本为Laravel 5.5。
 
 1,安装：
 ````
