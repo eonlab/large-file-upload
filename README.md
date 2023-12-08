@@ -7,7 +7,7 @@ Uses AetherUpload v2.0
 
 OpenAdmin doesn't use JQuery, to use this extension you have to install Jquery
 
-Admin::headerJs('https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js');
+Admin::headerJs('/somepath/jquery.min.js');
 
 ===
 
