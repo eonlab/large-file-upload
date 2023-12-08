@@ -5,7 +5,7 @@ Extension for OpenAdmin forked and adapted from https://github.com/laravel-admin
 ===
 Uses AetherUpload v2.0
 
-OpenAdmin doesn't use JQuery, to use this extension you have to install Jquery
+OpenAdmin doesn't use JQuery, to use this extension you have to install Jquery adding this line to the bootstrap.php file
 
 Admin::headerJs('/somepath/jquery.min.js');
 
