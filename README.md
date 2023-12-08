@@ -1,7 +1,9 @@
 open-admin extension
 ======
 
-由于已经有了更好更专业完善的方案，本项目停止更新，建议大家支持这个项目[Dact-Admin](https://github.com/jqhph/dcat-admin),以获得更好的体验
+Extension for OpenAdmin forked and adapted from from https://github.com/laravel-admin-extensions/large-file-upload
+Uses AtherUpload v2.0
+
 ===
 
 本扩展包是基于peinhu的[AetherUpload-Laravel](https://github.com/peinhu/AetherUpload-Laravel)针对[laravel-admin](https://github.com/z-song/laravel-admin)开发的大文件上传工具，
