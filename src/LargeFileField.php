@@ -33,6 +33,7 @@ class LargeFileField extends Field
 
         showResult = function () {
             $('#{$name}-savedpath').val(this.savedPath);
+            $('#source-name').val(this.resourceName);
             $('#result-{$name}').append(
                 '<small>Source：<span >' + this.resourceName + '</span> | Size：<span >' + parseFloat(this.resourceSize / (1000 * 1000)).toFixed(2) + ' MB ' + '</span> | File：<span >' + this.savedPath.substr(this.savedPath.lastIndexOf('_') + 1) + '</span></small>'
             );
